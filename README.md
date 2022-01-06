@@ -1,4 +1,4 @@
-# Clone of Zara Website
+<!-- # Clone of Zara Website -->
 # Zara_Project_Clone
 # Cloning of Zara Clothing Store
 
@@ -28,11 +28,8 @@ We started with creating a repository on GitHub, and assigned them to the respec
 ## Authors
 
 Contributors names and contact info
-* Anmol Kumar
-* Gajanan Wattamar
 * Pavan Kumar Thota
-* Prashant Patil  
 * Gajanan Wattamar
 * Anmol Kumar
-* Pavan Kumar Thota
-* Prashant Patil  
+* Prashant Patil 
+
