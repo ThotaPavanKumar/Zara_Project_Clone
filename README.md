@@ -1,4 +1,6 @@
 # Clone of Zara Website
+# Zara_Project_Clone
+# Cloning of Zara Clothing Store
 
 In the week, we tried to make a clone of zara website. Zara have a luxury clothing lineup.
 
@@ -28,5 +30,9 @@ We started with creating a repository on GitHub, and assigned them to the respec
 Contributors names and contact info
 * Anmol Kumar
 * Gajanan Wattamar
+* Pavan Kumar Thota
+* Prashant Patil  
+* Gajanan Wattamar
+* Anmol Kumar
 * Pavan Kumar Thota
 * Prashant Patil  
